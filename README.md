@@ -29,3 +29,11 @@ This function computes the shortest path a knight can take from a `start` positi
 ```javascript
 console.log(knightMoves([3, 3], [7, 3]));
 ```
+
+Output:
+
+You made it in 3 moves! Here's your path:
+[3,3]
+[5,4]
+[7,5]
+[7,3]
